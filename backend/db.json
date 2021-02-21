@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.59
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 11999.99
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S20",
+      "price": 4999.99
+    },
+    {
+      "id": 4,
+      "name": "Mesa Digitalizadora Wacom One",
+      "price": 329.89
+    },
+    {
+      "id": 5,
+      "name": "Borracha BIC",
+      "price": 2.99
+    },
+    {
+      "id": 6,
+      "name": "Geladeira",
+      "price": 1599
+    },
+    {
+      "name": "Blu-Ray Player",
+      "price": 499.99,
+      "id": 7
+    },
+    {
+      "name": "sda",
+      "price": "2",
+      "id": 8
+    }
+  ]
+}
